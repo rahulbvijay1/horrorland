@@ -1,4 +1,19 @@
 # Horrorland
+This is a Python powered game. The key concepts utilised in this game are as follows:-
+
+1) import
+2) Modules: Random, Sys, and Time
+3) input statements
+4) assignment statements
+5) Mathematical operators
+6) Functions
+7) Lists
+8) Control Statements: if,elif,else
+9) While loops
+10) Nesting Functions into Lists 
+11) f strings
+12) print statements
+
 This is a text-based game wherein a player is brought into a haunted castle called Horrorland. The aim of this game is to find an ancient green glass box that contains a precious 90 carat diamond ring which is believed to have belonged to a Roman emperor, Romeo Caesar, dated back 7th century BC. Known to have reached at the castle under mysterious circumstances, this ring is needed to be retained back to government who will then display at a museum. It is valued at around $ 2 million. 
 
 As simple as it appears to be, the game is loaded with a series of exciting stages, that challenges the player to move forward in quest to finding the box.
