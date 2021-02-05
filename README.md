@@ -18,7 +18,7 @@ This is a Python powered game. The key concepts utilised in this game are as fol
 15) String handlers: lower(), and title()
 16) Using Comments
 
-This is a text-based game wherein a player is brought into a haunted castle called Horrorland, located near Southern coast of Honululu, Hawaii. The aim of this game is to find an Ancient Green Glass Box that contains a precious 90 Carat Diamond Ring which is believed to have belonged to a Roman emperor, Romeo Caesar, dated back 7th century BC. Known to have reached at the castle under mysterious circumstances, this ring is needed to be retained back to government who will then display at a museum. It is valued at around $ 2.0 million. 
+This is a text-based game wherein a player is brought into a haunted castle called Horrorland, located near Southern coast of Honululu, Hawaii. The aim of this game is to find an Ancient Green Glass Box that contains a precious 90 Carat Diamond Ring which is believed to have belonged to a Roman emperor, Romeo Caesar, dated back 7th century BC. Known to have reached at the castle under mysterious circumstances, this ring is needed to be retained back to government who will then display at a city museum. It is valued at around $ 2.0 million. 
 
 As simple as it appears to be, the game is loaded with a series of exciting stages, that challenges the player to move forward in quest to finding the box.
 
