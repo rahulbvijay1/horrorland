@@ -288,7 +288,7 @@ if shield.lower() == "shield": # Condition created if written "SHIELD"
         print("\n\nHell Raiser now trying to cause damage to electronics - television, microwave, resulting in electromagnetic radiation,\nmaking Lucifer weaker...")
 
 
-        print("\n\n Lucifer - '{name.title()}, try to hide behind cupboard, as long as your away from his sight, your safe. Let me regain my energy \n\t    for next 15 seconds.'")
+        print(f"\n\n Lucifer - '{name.title()}, try to hide behind cupboard, as long as your away from his sight, your safe. Let me regain my energy \n\t    for next 15 seconds.'")
 
         
         hide = input("\nType 'hide'to hide behind cupboard: ")
@@ -779,13 +779,7 @@ print(case)
 
                       
 
-                
-
-
-
-
-                
-                    
+                   
     
                 
 
