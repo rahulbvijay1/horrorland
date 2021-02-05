@@ -557,7 +557,7 @@ def hellraiser_weak():
                         ## If written TELEPHONE, they enter room and witness the Ancient Green Glass Box.
                         
 
-                        print("\n\nAs you and Lucifer enter room, you are amazed to see the Ancient Green Glass Box resting on a chair.")
+                        print("\n\nAs you and Lucifer enter room, you are amazed to see the Ancient Green Glass Box resting on the floor.")
 
                         # Creating a variable to represent the box.
 
