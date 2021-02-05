@@ -1,0 +1,2 @@
+# horrorland
+This is a text-based game wherein a player is brought into a haunted castle called Horrorland. The aim of this game is to find an ancient green glass box that contains a precious 90 carat diamond ring which is believed to have belonged to a Roman emperor, Romeo Caesar, dated back 7th century BC. Known to have reached at the castle under mysterious circumstances, this ring is needed to be retained back to government who will then display at a museum. It is valued at around $ 2 million.
