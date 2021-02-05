@@ -676,7 +676,9 @@ def hellraiser_weak():
 
                                             print(f"\n\n Kijo - 'Great, {name.title()}! Solve the final question to retain the box:'")
 
-                                            finalguess = 0
+                                            finalguess = 0 # Number of guesses taken by player for final question's answer
+
+                                            # end = '' used to continue printing the next lines of strings together in console.
 
                                             print("\n\n\t\t CAN YOU OPEN THIS LOCK ?", end='')
                                             print(" \n\n\n\t\t 206: Two digits are right but both are in the wrong place", end='')
