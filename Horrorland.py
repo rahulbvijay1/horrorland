@@ -702,7 +702,7 @@ def hellraiser_weak():
                                                     
                                                     time.sleep(3)
                                                     
-                                                    print(f"\n\n  Kijo - 'Congratulations, {name.capital()}!!! You finally were able to retain the box!!! \n\n\t\t***YOU WIN :)***")
+                                                    print(f"\n\n  Kijo - 'Congratulations, {name.upper()}!!! You finally were able to retain the box!!! \n\n\t\t***YOU WIN :)***")
 
                                                     sys.exit() # Exit the game.
 
