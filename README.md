@@ -1,7 +1,7 @@
-# horrorland
+# Horrorland
 This is a text-based game wherein a player is brought into a haunted castle called Horrorland. The aim of this game is to find an ancient green glass box that contains a precious 90 carat diamond ring which is believed to have belonged to a Roman emperor, Romeo Caesar, dated back 7th century BC. Known to have reached at the castle under mysterious circumstances, this ring is needed to be retained back to government who will then display at a museum. It is valued at around $ 2 million. 
 
-As simple as it appears to be, the game is loaded with a series of exciting stages, that challenges the player move to forward in quest to finding the box.
+As simple as it appears to be, the game is loaded with a series of exciting stages, that challenges the player to move forward in quest to finding the box.
 
 There are 3 characters involved in this game.
 
@@ -13,26 +13,27 @@ Faetures of Lucifer and Hell Raiser:
 
 Lucifer's Strengths:
 
-i)   Able to travel through walls
-ii)  Survives in sunlight
-iii) Create loud high pitched noises to battle demons
+1)   Able to travel through walls
+2)  Survives in sunlight
+3) Create loud high pitched noises to battle demons
 
 Lucifer's Weaknesses:
 
-i)   Reacts badly to Salt
-ii)  Avoids Electromagnetic radiations
-iii) Avoids his brother's Demonic Knife
+1)   Reacts badly to Salt
+2)  Avoids Electromagnetic radiations
+3) Avoids his brother's Demonic Knife
 
 Hell Raiser's Strenghths:
 
-i)   Strong in dark conditions
-ii)  Able to vanish himself
-iii) Throw fireballs from mouth
+1)   Strong in dark conditions
+2)  Able to vanish himself
+3) Throw fireballs from mouth
 
 Hell Raiser's Weaknesses:
 
-i)   Repels from sunlight
-ii)  Avoids high pitched noises
-iii) Gets weak by hearing the word, "Christo"
-iv)  Avoids Holy Water
+1)   Repels from sunlight
+2)  Avoids high pitched noises
+3) Gets weak by hearing the word, "Christo"
+4)  Avoids Holy Water
 
+The rest of the story progresses with the game...
