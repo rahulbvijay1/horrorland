@@ -28,7 +28,7 @@ There are 3 characters involved in this game.
 2) Hell Raiser, Lucifer's unfriendly brother, who is trying to eliminate the player. 
 3) Kijo, the witch who demands smartest answers to the riddles.
 
-Faetures of Lucifer and Hell Raiser:
+Features of Lucifer and Hell Raiser:
 
 Lucifer's Strengths:
 
